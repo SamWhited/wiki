@@ -4,7 +4,10 @@
 
 ## List of Contra Dances
 
-* TODO: Add dances from cards and start collecting new dances.
+* Don Armstrong
+  * [[Broken Sixpence|contra/Broken Sixpence]]
+* Unknown
+  * [[Untitled № 1|contra/Untitled 1]]
 
 ## Useful Links
 
