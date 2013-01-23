@@ -1,4 +1,5 @@
 Gemfile.lock
+public/
 config.yml
 log/
 tmp/
