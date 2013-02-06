@@ -6,6 +6,8 @@
   * [[Broken Sixpence]]
 * Becky Hill
   * [[Box the Gnat Contra]]
+* Tom Hinds
+  * [[Dip and Dive]]
 * Tony Parkes
   * [[California Contra]]
 * Unknown
