@@ -1,5 +1,6 @@
 # Broken Sixpence
 By: Don Armstrong
+Form: Duple improper
 
 A1: Neighbor Dosido; Gents Dosido  
 A2: Ladies Dosido; Actives Swing

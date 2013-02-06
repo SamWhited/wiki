@@ -1,5 +1,6 @@
 # Untitled № 1
 By: Unknown
+Form: Duple improper
 
 A1: Neightbor dosido; Neighbor swing  
 A2: Circle left 3; Partner swing

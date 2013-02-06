@@ -1,5 +1,6 @@
 # California Contra
 By: Tony Parkes
+Form: Duple improper
 
 A1: Neighbor do-si-do; Neighbor swing
 A2: Long lines; Ladies chain
