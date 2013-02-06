@@ -1,14 +1,5 @@
 # Contra Dance
 
-[[_TOC_]]
-
-## List of Contra Dances
-
-* Don Armstrong
-  * [[Broken Sixpence|contra/dances/Broken Sixpence]]
-* Unknown
-  * [[Untitled № 1|contra/dances/Untitled 1]]
-
 ## Useful Links
 
 * [[Contra Dances, Matrices, and Groups|contra/Contra Dances Matrices and Groups]] by Ivars Peterson
