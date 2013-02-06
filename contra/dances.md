@@ -3,10 +3,10 @@
 ## List of Contra Dances
 
 * Don Armstrong
-  * [[Broken Sixpence|contra/dances/Broken Sixpence]]
+  * [[Broken Sixpence]]
 * Becky Hill
-  * [[Box the Gnat Contra|contra/dances/Box the Gnat Contra]]
+  * [[Box the Gnat Contra]]
 * Tony Parkes
   * [[California Contra]]
 * Unknown
-  * [[Untitled № 1|contra/dances/Untitled 1]]
+  * [[Untitled № 1|Untitled 1]]
