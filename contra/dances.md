@@ -10,5 +10,7 @@
   * [[Dip and Dive]]
 * Tony Parkes
   * [[California Contra]]
+* Sam Whited
+  * [[Code’s Compiling|Codes Compiling]]
 * Unknown
   * [[Untitled № 1|Untitled 1]]
