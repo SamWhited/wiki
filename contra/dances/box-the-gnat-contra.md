@@ -1,5 +1,5 @@
 # Box the Gnat Contra
-By: Becky Hill
+By: Becky Hill  
 Form: Duple improper
 
 A1: Neighbor right hand balance, neighbor box the gnat; partner right hand balance, partner box the gnat  

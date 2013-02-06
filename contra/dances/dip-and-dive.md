@@ -1,5 +1,5 @@
 # Dip and Dive
-By: Tom Hinds
+By: Tom Hinds  
 Form: Duple improper, double progression
 
 A1: Neighbor balance and swing  

@@ -1,5 +1,5 @@
 # Broken Sixpence
-By: Don Armstrong
+By: Don Armstrong  
 Form: Duple improper
 
 A1: Neighbor Dosido; Gents Dosido  
