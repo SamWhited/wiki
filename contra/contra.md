@@ -5,9 +5,9 @@
 ## List of Contra Dances
 
 * Don Armstrong
-  * [[Broken Sixpence|contra/Broken Sixpence]]
+  * [[Broken Sixpence|contra/dances/Broken Sixpence]]
 * Unknown
-  * [[Untitled № 1|contra/Untitled 1]]
+  * [[Untitled № 1|contra/dances/Untitled 1]]
 
 ## Useful Links
 
