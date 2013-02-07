@@ -1,6 +1,6 @@
 # Code’s Compiling
 By: Sam Whited  
-Form: Duple improper
+Form: Duple becket
 
 A1: Dosido your neighbor; See saw with your own  
 A2: Swing the one behind you
