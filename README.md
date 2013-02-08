@@ -20,3 +20,14 @@ If you want to deploy my wiki for some rason (or, what's more likely, you just w
 You can then just point your favorite server or server/proxy combo at your wiki and let it go.
 
 Depending on your setup, you may want to mirror gollum's [public resources](https://github.com/github/gollum/tree/master/lib/gollum/frontend/public/gollum) and serve them directly.
+
+### Mirroring to GitHub
+
+If you want to mirror your wiki to GitHub in such a way that you can [view the source](https://github.com/SamWhited/wiki) and view the actual wiki on the [wiki tab](https://github.com/SamWhited/wiki/wiki) but don't want to push to multiple remotes each time you make an update you can do something like this in your `.git/config` file:
+
+
+    [remote "origin"]
+      url = git@github.com:YOURUSERNAME/wiki.git
+      url = git@github.com:YOURUSERNAME/wiki.wiki.git
+      fetch = +refs/heads/*:refs/remotes/origin/*
+      fetch = +refs/heads/*:refs/remotes/wiki/*
