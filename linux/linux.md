@@ -1,6 +1,6 @@
 # Linux
 
-## Setup
+## Distros
 
-* [[Fedora Setup|linux/fedora/Setup]]
-* [[Arch Setup|linux/arch/Setup]]
+* [[Fedora]]
+* [[Arch]]

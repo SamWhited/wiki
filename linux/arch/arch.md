@@ -1,6 +1,8 @@
-# Fedora Setup
+# Arch
 
-# Basic Packages
+## Setup
+
+### Basic Packages
 
 ```bash
 pacman -S xfce xfce-goodies lightdm pidgin aspell terminator chromium xterm
@@ -10,19 +12,19 @@ gstreamer0.10-bad-plugins gstreamer0.10-ffmpeg vlc mplayer rxvt-unicode htop
 strace timidity++ timidity-freepats cpio ntfs-3g pkgfile gimp hub truecrypt
 ```
 
-# Drivers
+### Drivers
 
 ```bash
 pacman -S nvidia
 ```
 
-# Multilib
+### Multilib
 
 ```bash
 pacman -S skype
 ```
 
-# AUR
+### AUR
 
 * [hal-info](https://aur.archlinux.org/packages/hal-info/)
 * [hal](https://aur.archlinux.org/packages/hal/)
