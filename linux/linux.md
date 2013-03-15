@@ -1,5 +1,6 @@
 # Linux
 
-## Fedora
+## Setup
 
-* [[Setup|linux/fedora/Setup]]
+* [[Fedora Setup|linux/fedora/Setup]]
+* [[Arch Setup|linux/arch/Setup]]
