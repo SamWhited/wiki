@@ -5,7 +5,7 @@
 ### Basic Packages
 
 ```bash
-pacman -S xfce xfce-goodies lightdm pidgin aspell terminator chromium xterm
+pacman -S xfce4 xfce4-goodies lightdm pidgin aspell terminator chromium xterm
 xorg-fonts-type1 numlockx lightdm-gtk3-greeter gvfs python2 tmux thunderbird
 ifplugd openssh wget git flashplugin rhythmbox gstreamer0.10-ugly-plugins
 gstreamer0.10-bad-plugins gstreamer0.10-ffmpeg vlc mplayer rxvt-unicode htop
@@ -17,12 +17,6 @@ lilypond irssi virtualbox
 
 ```bash
 pacman -S nvidia
-```
-
-### Multilib
-
-```bash
-pacman -S skype
 ```
 
 ### AUR
