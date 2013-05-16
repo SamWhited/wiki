@@ -7,10 +7,10 @@
 ```bash
 pacman -S xfce4 xfce4-goodies lightdm pidgin aspell terminator chromium xterm
 xorg-fonts-type1 numlockx lightdm-gtk3-greeter gvfs python2 tmux thunderbird
-ifplugd openssh wget git flashplugin rhythmbox gstreamer0.10-ugly-plugins
-gstreamer0.10-bad-plugins gstreamer0.10-ffmpeg vlc mplayer rxvt-unicode htop
-strace timidity++ timidity-freepats cpio ntfs-3g pkgfile gimp hub truecrypt
-lilypond irssi virtualbox bitcoin-qt bitcoin-daemon deluge unzip alsa-utils
+ifplugd openssh wget git flashplugin rhythmbox gstreamer0.10-plugins vlc mplayer
+rxvt-unicode htop strace timidity++ timidity-freepats cpio ntfs-3g pkgfile gimp
+hub truecrypt lilypond irssi virtualbox bitcoin-qt bitcoin-daemon deluge unzip
+alsa-utils
 ```
 
 ### Drivers
