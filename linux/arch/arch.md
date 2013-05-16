@@ -10,7 +10,7 @@ xorg-fonts-type1 numlockx lightdm-gtk3-greeter gvfs python2 tmux thunderbird
 ifplugd openssh wget git flashplugin rhythmbox gstreamer0.10-plugins vlc mplayer
 rxvt-unicode htop strace timidity++ timidity-freepats cpio ntfs-3g pkgfile gimp
 hub truecrypt lilypond irssi virtualbox bitcoin-qt bitcoin-daemon deluge unzip
-alsa-utils gst-libav
+alsa-utils gst-libav ntp
 ```
 
 ### Drivers
